@@ -1,0 +1,248 @@
+[?1h=[?25l[H[2J(B[mtop - 14:00:47 up 8 min,  1 user,  load average: 0.01, 0.02, 0.00(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m  34 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m  33 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  0.0 (B[m[39;49mus,(B[m[39;49m[1m  0.0 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m100.0 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m  11643.2 (B[m[39;49mtotal,(B[m[39;49m[1m  10534.3 (B[m[39;49mfree,(B[m[39;49m[1m    521.4 (B[m[39;49mused,(B[m[39;49m[1m    587.5 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m   3072.0 (B[m[39;49mtotal,(B[m[39;49m[1m   3072.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m  10876.7 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+[7m    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND                                                                                         (B[m[39;49m[K
+(B[m      1 root      20   0  166928  12220   7988 S   0.0   0.1   0:04.46 systemd                                                                                         (B[m[39;49m[K
+(B[m      2 root      20   0    2280   1304   1188 S   0.0   0.0   0:00.00 init-systemd(Ub                                                                                 (B[m[39;49m[K
+(B[m      6 root      20   0    2308    144    132 S   0.0   0.0   0:00.00 init                                                                                            (B[m[39;49m[K
+(B[m     41 root      19  -1   47744  14700  13680 S   0.0   0.1   0:00.08 systemd-journal                                                                                 (B[m[39;49m[K
+(B[m     61 root      20   0   22100   5996   4536 S   0.0   0.1   0:00.12 systemd-udevd                                                                                   (B[m[39;49m[K
+(B[m     75 root      20   0    4496    196     48 S   0.0   0.0   0:00.00 snapfuse                                                                                        (B[m[39;49m[K
+(B[m     77 root      20   0    4860   1672   1212 S   0.0   0.0   0:00.64 snapfuse                                                                                        (B[m[39;49m[K
+(B[m     80 root      20   0    4628    168     20 S   0.0   0.0   0:00.00 snapfuse                                                                                        (B[m[39;49m[K
+(B[m     84 root      20   0    4496    152      0 S   0.0   0.0   0:00.00 snapfuse                                                                                        (B[m[39;49m[K
+(B[m     93 root      20   0    4736   1740   1232 S   0.0   0.0   0:02.08 snapfuse                                                                                        (B[m[39;49m[K
+(B[m     95 root      20   0    4496    184     36 S   0.0   0.0   0:00.00 snapfuse                                                                                        (B[m[39;49m[K
+(B[m     97 root      20   0    4932   1676   1212 S   0.0   0.0   0:01.16 snapfuse                                                                                        (B[m[39;49m[K
+(B[m    104 systemd+  20   0   25540  12604   8412 S   0.0   0.1   0:00.12 systemd-resolve                                                                                 (B[m[39;49m[K
+(B[m    123 root      20   0    4308   2696   2464 S   0.0   0.0   0:00.00 cron                                                                                            (B[m[39;49m[K
+(B[m    142 message+  20   0    8592   4676   4136 S   0.0   0.0   0:00.06 dbus-daemon                                                                                     (B[m[39;49m[K
+(B[m    153 root      20   0   30104  18956  10156 S   0.0   0.2   0:00.11 networkd-dispat                                                                                 (B[m[39;49m[K
+(B[m    156 syslog    20   0  222404   7020   4208 S   0.0   0.1   0:00.02 rsyslogd                                                                                        (B[m[39;49m[K
+(B[m    159 root      20   0 1984852  48028  18896 S   0.0   0.4   0:01.78 snapd                                                                                           (B[m[39;49m[K
+(B[m    160 root      20   0   15332   7112   6168 S   0.0   0.1   0:00.09 systemd-logind                                                                                  (B[m[39;49m[K
+(B[m    222 root      20   0    4784   3376   3140 S   0.0   0.0   0:00.06 subiquity-serve                                                                                 (B[m[39;49m[K
+(B[m    229 root      20   0  107220  21064  12964 S   0.0   0.2   0:00.07 unattended-upgr                                                                                 (B[m[39;49m[K
+(B[m    236 root      20   0    3240   1048    960 S   0.0   0.0   0:00.00 agetty                                                                                          (B[m[39;49m[K
+(B[m    239 root      20   0    3196   1148   1064 S   0.0   0.0   0:00.00 agetty                                                                                          (B[m[39;49m[K
+(B[m    341 root      20   0  154648  71592  17712 S   0.0   0.6   0:02.59 python3.10                                                                                      (B[m[39;49m[K
+(B[m    369 root      20   0    2288    116      0 S   0.0   0.0   0:00.00 SessionLeader                                                                                   (B[m[39;49m[K
+(B[m    370 root      20   0    2304    120      0 S   0.0   0.0   0:00.00 Relay(371)                                                                                      (B[m[39;49m[K
+(B[m    371 frankpa+  20   0    6080   5124   3408 S   0.0   0.0   0:00.01 bash                                                                                            (B[m[39;49m[K
+(B[m    372 root      20   0    7528   4784   3860 S   0.0   0.0   0:00.00 login                                                                                           (B[m[39;49m[K
+(B[m    430 frankpa+  20   0   16912   9092   7640 S   0.0   0.1   0:00.04 systemd                                                                                         (B[m[39;49m[K
+(B[m    432 frankpa+  20   0  168792   3384     12 S   0.0   0.0   0:00.00 (sd-pam)                                                                                        (B[m[39;49m[K
+(B[m    437 frankpa+  20   0    6124   4936   3368 S   0.0   0.0   0:00.01 bash                                                                                            (B[m[39;49m[K
+(B[m    465 root      20   0   44196  37724  10204 S   0.0   0.3   0:02.86 python3                                                                                         (B[m[39;49m[K
+(B[m   1802 root      20   0    4628   1608   1368 S   0.0   0.0   0:00.00 snapfuse                                                                                        (B[m[39;49m[K
+(B[m[1m   2529 frankpa+  20   0    7792   3692   3096 R   0.0   0.0   0:00.00 top                                                                                             (B[m[39;49m[K
+[J[H(B[mtop - 14:00:50 up 8 min,  1 user,  load average: 0.01, 0.02, 0.00(B[m[39;49m(B[m[39;49m[K
+
+%Cpu(s):(B[m[39;49m[1m  0.1 (B[m[39;49mus,(B[m[39;49m[1m  0.1 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 99.8 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m  11643.2 (B[m[39;49mtotal,(B[m[39;49m[1m  10534.1 (B[m[39;49mfree,(B[m[39;49m[1m    521.6 (B[m[39;49mused,(B[m[39;49m[1m    587.5 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m   3072.0 (B[m[39;49mtotal,(B[m[39;49m[1m   3072.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m  10876.5 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m      1 root      20   0  166928  12220   7988 S   0.7   0.1   0:04.48 systemd                                                                                         (B[m[39;49m[K
+(B[m    465 root      20   0   44196  37724  10204 S   0.3   0.3   0:02.87 python3                                                                                         (B[m[39;49m[K
+(B[m      2 root      20   0    2280   1304   1188 S   0.0   0.0   0:00.00 init-systemd(Ub                                                                                 (B[m[39;49m[K
+(B[m      6 root      20   0    2308    144    132 S   0.0   0.0   0:00.00 init                                                                                            (B[m[39;49m[K
+(B[m     41 root      19  -1   47744  14700  13680 S   0.0   0.1   0:00.08 systemd-journal                                                                                 (B[m[39;49m[K
+(B[m     61 root      20   0   22100   5996   4536 S   0.0   0.1   0:00.12 systemd-udevd                                                                                   (B[m[39;49m[K
+(B[m     75 root      20   0    4496    196     48 S   0.0   0.0   0:00.00 snapfuse                                                                                        (B[m[39;49m[K
+(B[m     77 root      20   0    4860   1672   1212 S   0.0   0.0   0:00.64 snapfuse                                                                                        (B[m[39;49m[K
+(B[m     80 root      20   0    4628    168     20 S   0.0   0.0   0:00.00 snapfuse                                                                                        (B[m[39;49m[K
+(B[m     84 root      20   0    4496    152      0 S   0.0   0.0   0:00.00 snapfuse                                                                                        (B[m[39;49m[K
+(B[m     93 root      20   0    4736   1740   1232 S   0.0   0.0   0:02.08 snapfuse                                                                                        (B[m[39;49m[K
+(B[m     95 root      20   0    4496    184     36 S   0.0   0.0   0:00.00 snapfuse                                                                                        (B[m[39;49m[K
+(B[m     97 root      20   0    4932   1676   1212 S   0.0   0.0   0:01.16 snapfuse                                                                                        (B[m[39;49m[K
+(B[m    104 systemd+  20   0   25540  12604   8412 S   0.0   0.1   0:00.12 systemd-resolve                                                                                 (B[m[39;49m[K
+(B[m    123 root      20   0    4308   2696   2464 S   0.0   0.0   0:00.00 cron                                                                                            (B[m[39;49m[K
+(B[m    142 message+  20   0    8592   4676   4136 S   0.0   0.0   0:00.06 dbus-daemon                                                                                     (B[m[39;49m[K
+(B[m    153 root      20   0   30104  18956  10156 S   0.0   0.2   0:00.11 networkd-dispat                                                                                 (B[m[39;49m[K
+(B[m    156 syslog    20   0  222404   7020   4208 S   0.0   0.1   0:00.02 rsyslogd                                                                                        (B[m[39;49m[K
+(B[m    159 root      20   0 1984852  48028  18896 S   0.0   0.4   0:01.78 snapd                                                                                           (B[m[39;49m[K
+(B[m    160 root      20   0   15332   7112   6168 S   0.0   0.1   0:00.09 systemd-logind                                                                                  (B[m[39;49m[K
+(B[m    222 root      20   0    4784   3376   3140 S   0.0   0.0   0:00.06 subiquity-serve                                                                                 (B[m[39;49m[K
+(B[m    229 root      20   0  107220  21064  12964 S   0.0   0.2   0:00.07 unattended-upgr                                                                                 (B[m[39;49m[K
+(B[m    236 root      20   0    3240   1048    960 S   0.0   0.0   0:00.00 agetty                                                                                          (B[m[39;49m[K
+(B[m    239 root      20   0    3196   1148   1064 S   0.0   0.0   0:00.00 agetty                                                                                          (B[m[39;49m[K
+(B[m    341 root      20   0  154648  71592  17712 S   0.0   0.6   0:02.59 python3.10                                                                                      (B[m[39;49m[K
+(B[m    369 root      20   0    2288    116      0 S   0.0   0.0   0:00.00 SessionLeader                                                                                   (B[m[39;49m[K
+(B[m    370 root      20   0    2304    120      0 S   0.0   0.0   0:00.00 Relay(371)                                                                                      (B[m[39;49m[K
+(B[m    371 frankpa+  20   0    6080   5124   3408 S   0.0   0.0   0:00.01 bash                                                                                            (B[m[39;49m[K
+(B[m    372 root      20   0    7528   4784   3860 S   0.0   0.0   0:00.00 login                                                                                           (B[m[39;49m[K
+(B[m    430 frankpa+  20   0   16912   9092   7640 S   0.0   0.1   0:00.04 systemd                                                                                         (B[m[39;49m[K
+(B[m    432 frankpa+  20   0  168792   3384     12 S   0.0   0.0   0:00.00 (sd-pam)                                                                                        (B[m[39;49m[K
+(B[m    437 frankpa+  20   0    6124   4936   3368 S   0.0   0.0   0:00.01 bash                                                                                            (B[m[39;49m[K
+
+
+[J[H(B[mtop - 14:00:53 up 8 min,  1 user,  load average: 0.01, 0.02, 0.00(B[m[39;49m(B[m[39;49m[K
+
+
+MiB Mem :(B[m[39;49m[1m  11643.2 (B[m[39;49mtotal,(B[m[39;49m[1m  10536.1 (B[m[39;49mfree,(B[m[39;49m[1m    519.6 (B[m[39;49mused,(B[m[39;49m[1m    587.5 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m   3072.0 (B[m[39;49mtotal,(B[m[39;49m[1m   3072.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m  10878.5 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m      1 root      20   0  166928  12220   7988 S   0.7   0.1   0:04.50 systemd                                                                                         (B[m[39;49m[K
+(B[m    341 root      20   0  154648  71592  17712 S   0.3   0.6   0:02.60 python3.10                                                                                      (B[m[39;49m[K
+(B[m    465 root      20   0   44196  37724  10204 S   0.3   0.3   0:02.88 python3                                                                                         (B[m[39;49m[K
+(B[m      2 root      20   0    2280   1304   1188 S   0.0   0.0   0:00.00 init-systemd(Ub                                                                                 (B[m[39;49m[K
+(B[m      6 root      20   0    2308    144    132 S   0.0   0.0   0:00.00 init                                                                                            (B[m[39;49m[K
+(B[m     41 root      19  -1   47744  14700  13680 S   0.0   0.1   0:00.08 systemd-journal                                                                                 (B[m[39;49m[K
+(B[m     61 root      20   0   22100   5996   4536 S   0.0   0.1   0:00.12 systemd-udevd                                                                                   (B[m[39;49m[K
+(B[m     75 root      20   0    4496    196     48 S   0.0   0.0   0:00.00 snapfuse                                                                                        (B[m[39;49m[K
+(B[m     77 root      20   0    4860   1672   1212 S   0.0   0.0   0:00.64 snapfuse                                                                                        (B[m[39;49m[K
+(B[m     80 root      20   0    4628    168     20 S   0.0   0.0   0:00.00 snapfuse                                                                                        (B[m[39;49m[K
+(B[m     84 root      20   0    4496    152      0 S   0.0   0.0   0:00.00 snapfuse                                                                                        (B[m[39;49m[K
+(B[m     93 root      20   0    4736   1740   1232 S   0.0   0.0   0:02.08 snapfuse                                                                                        (B[m[39;49m[K
+(B[m     95 root      20   0    4496    184     36 S   0.0   0.0   0:00.00 snapfuse                                                                                        (B[m[39;49m[K
+(B[m     97 root      20   0    4932   1676   1212 S   0.0   0.0   0:01.16 snapfuse                                                                                        (B[m[39;49m[K
+(B[m    104 systemd+  20   0   25540  12604   8412 S   0.0   0.1   0:00.12 systemd-resolve                                                                                 (B[m[39;49m[K
+(B[m    123 root      20   0    4308   2696   2464 S   0.0   0.0   0:00.00 cron                                                                                            (B[m[39;49m[K
+(B[m    142 message+  20   0    8592   4676   4136 S   0.0   0.0   0:00.06 dbus-daemon                                                                                     (B[m[39;49m[K
+(B[m    153 root      20   0   30104  18956  10156 S   0.0   0.2   0:00.11 networkd-dispat                                                                                 (B[m[39;49m[K
+(B[m    156 syslog    20   0  222404   7020   4208 S   0.0   0.1   0:00.02 rsyslogd                                                                                        (B[m[39;49m[K
+(B[m    159 root      20   0 1984852  48028  18896 S   0.0   0.4   0:01.78 snapd                                                                                           (B[m[39;49m[K
+(B[m    160 root      20   0   15332   7112   6168 S   0.0   0.1   0:00.09 systemd-logind                                                                                  (B[m[39;49m[K
+(B[m    222 root      20   0    4784   3376   3140 S   0.0   0.0   0:00.06 subiquity-serve                                                                                 (B[m[39;49m[K
+(B[m    229 root      20   0  107220  21064  12964 S   0.0   0.2   0:00.07 unattended-upgr                                                                                 (B[m[39;49m[K
+(B[m    236 root      20   0    3240   1048    960 S   0.0   0.0   0:00.00 agetty                                                                                          (B[m[39;49m[K
+(B[m    239 root      20   0    3196   1148   1064 S   0.0   0.0   0:00.00 agetty                                                                                          (B[m[39;49m[K
+
+
+
+
+
+
+
+
+
+[J[?25l[H(B[mtop - 14:00:54 up 8 min,  1 user,  load average: 0.01, 0.02, 0.00(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m  34 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m  33 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  0.0 (B[m[39;49mus,(B[m[39;49m[1m  0.2 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 99.8 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m  11643.2 (B[m[39;49mtotal,(B[m[39;49m[1m  10536.1 (B[m[39;49mfree,(B[m[39;49m[1m    519.6 (B[m[39;49mused,(B[m[39;49m[1m    587.5 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m   3072.0 (B[m[39;49mtotal,(B[m[39;49m[1m   3072.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m  10878.5 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+[7m    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND                                                                                         (B[m[39;49m[K
+(B[m      1 root      20   0  166928  12220   7988 S   1.2   0.1   0:04.51 /sbin/init                                                                                      (B[m[39;49m[K
+(B[m      2 root      20   0    2280   1304   1188 S   0.0   0.0   0:00.00 /init                                                                                           (B[m[39;49m[K
+(B[m      6 root      20   0    2308    144    132 S   0.0   0.0   0:00.00 plan9 --control-socket 6 --log-level 4 --server-fd 7 --pipe-fd 9 --log-truncate                 (B[m[39;49m[K
+(B[m     41 root      19  -1   47744  14700  13680 S   0.0   0.1   0:00.08 /lib/systemd/systemd-journald                                                                   (B[m[39;49m[K
+(B[m     61 root      20   0   22100   5996   4536 S   0.0   0.1   0:00.12 /lib/systemd/systemd-udevd                                                                      (B[m[39;49m[K
+(B[m     75 root      20   0    4496    196     48 S   0.0   0.0   0:00.00 snapfuse /var/lib/snapd/snaps/bare_5.snap /snap/bare/5 -o ro,nodev,allow_other,suid             (B[m[39;49m[K
+(B[m     77 root      20   0    4860   1672   1212 S   0.0   0.0   0:00.64 snapfuse /var/lib/snapd/snaps/core22_1122.snap /snap/core22/1122 -o ro,nodev,allow_other,suid   (B[m[39;49m[K
+(B[m     80 root      20   0    4628    168     20 S   0.0   0.0   0:00.00 snapfuse /var/lib/snapd/snaps/gtk-common-themes_1535.snap /snap/gtk-common-themes/1535 -o ro,n+ (B[m[39;49m[K
+(B[m     84 root      20   0    4496    152      0 S   0.0   0.0   0:00.00 snapfuse /var/lib/snapd/snaps/snapd_20290.snap /snap/snapd/20290 -o ro,nodev,allow_other,suid   (B[m[39;49m[K
+(B[m     93 root      20   0    4736   1740   1232 S   0.0   0.0   0:02.08 snapfuse /var/lib/snapd/snaps/snapd_21184.snap /snap/snapd/21184 -o ro,nodev,allow_other,suid   (B[m[39;49m[K
+(B[m     95 root      20   0    4496    184     36 S   0.0   0.0   0:00.00 snapfuse /var/lib/snapd/snaps/ubuntu-desktop-installer_1276.snap /snap/ubuntu-desktop-installe+ (B[m[39;49m[K
+(B[m     97 root      20   0    4932   1676   1212 S   0.0   0.0   0:01.16 snapfuse /var/lib/snapd/snaps/ubuntu-desktop-installer_1286.snap /snap/ubuntu-desktop-installe+ (B[m[39;49m[K
+(B[m    104 systemd+  20   0   25540  12604   8412 S   0.0   0.1   0:00.12 /lib/systemd/systemd-resolved                                                                   (B[m[39;49m[K
+(B[m    123 root      20   0    4308   2696   2464 S   0.0   0.0   0:00.00 /usr/sbin/cron -f -P                                                                            (B[m[39;49m[K
+(B[m    142 message+  20   0    8592   4676   4136 S   0.0   0.0   0:00.06 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-on+ (B[m[39;49m[K
+(B[m    153 root      20   0   30104  18956  10156 S   0.0   0.2   0:00.11 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers                            (B[m[39;49m[K
+(B[m    156 syslog    20   0  222404   7020   4208 S   0.0   0.1   0:00.02 /usr/sbin/rsyslogd -n -iNONE                                                                    (B[m[39;49m[K
+(B[m    159 root      20   0 1984852  48028  18896 S   0.0   0.4   0:01.78 /usr/lib/snapd/snapd                                                                            (B[m[39;49m[K
+(B[m    160 root      20   0   15332   7112   6168 S   0.0   0.1   0:00.09 /lib/systemd/systemd-logind                                                                     (B[m[39;49m[K
+(B[m    222 root      20   0    4784   3376   3140 S   0.0   0.0   0:00.06 /bin/bash /snap/ubuntu-desktop-installer/1286/bin/subiquity-server                              (B[m[39;49m[K
+(B[m    229 root      20   0  107220  21064  12964 S   0.0   0.2   0:00.07 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal   (B[m[39;49m[K
+(B[m    236 root      20   0    3240   1048    960 S   0.0   0.0   0:00.00 /sbin/agetty -o -p -- \u --noclear --keep-baud console 115200,38400,9600 vt220                  (B[m[39;49m[K
+(B[m    239 root      20   0    3196   1148   1064 S   0.0   0.0   0:00.00 /sbin/agetty -o -p -- \u --noclear tty1 linux                                                   (B[m[39;49m[K
+(B[m    341 root      20   0  154648  71592  17712 S   0.0   0.6   0:02.60 /snap/ubuntu-desktop-installer/1286/usr/bin/python3.10 -m subiquity.cmd.server --use-os-prober+ (B[m[39;49m[K
+(B[m    369 root      20   0    2288    116      0 S   0.0   0.0   0:00.00 /init                                                                                           (B[m[39;49m[K
+(B[m    370 root      20   0    2304    120      0 S   0.0   0.0   0:00.00 /init                                                                                           (B[m[39;49m[K
+(B[m    371 frankpa+  20   0    6080   5124   3408 S   0.0   0.0   0:00.01 -bash                                                                                           (B[m[39;49m[K
+(B[m    372 root      20   0    7528   4784   3860 S   0.0   0.0   0:00.00 /bin/login -f                                                                                   (B[m[39;49m[K
+(B[m    430 frankpa+  20   0   16912   9092   7640 S   0.0   0.1   0:00.04 /lib/systemd/systemd --user                                                                     (B[m[39;49m[K
+(B[m    432 frankpa+  20   0  168792   3384     12 S   0.0   0.0   0:00.00 (sd-pam)                                                                                        (B[m[39;49m[K
+(B[m    437 frankpa+  20   0    6124   4936   3368 S   0.0   0.0   0:00.01 -bash                                                                                           (B[m[39;49m[K
+(B[m    465 root      20   0   44196  37724  10204 S   0.0   0.3   0:02.88 python3 /snap/ubuntu-desktop-installer/1286/usr/bin/cloud-init status --wait                    (B[m[39;49m[K
+(B[m   1802 root      20   0    4628   1608   1368 S   0.0   0.0   0:00.00 snapfuse /var/lib/snapd/snaps/core22_1380.snap /snap/core22/1380 -o ro,nodev,allow_other,suid   (B[m[39;49m[K
+(B[m[1m   2529 frankpa+  20   0    7792   3692   3096 R   0.0   0.0   0:00.00 top                                                                                             (B[m[39;49m[K
+[J[6;1H[7m Command disabled, 'A' mode required [?25l(B[m[39;49m[K[?25l[H(B[mtop - 14:00:55 up 8 min,  1 user,  load average: 0.01, 0.02, 0.00(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m  34 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m  33 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  0.1 (B[m[39;49mus,(B[m[39;49m[1m  0.1 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 99.9 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m  11643.2 (B[m[39;49mtotal,(B[m[39;49m[1m  10535.9 (B[m[39;49mfree,(B[m[39;49m[1m    519.8 (B[m[39;49mused,(B[m[39;49m[1m    587.5 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m   3072.0 (B[m[39;49mtotal,(B[m[39;49m[1m   3072.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m  10878.3 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+[7m    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND                                                                                         (B[m[39;49m[K
+(B[m      1 root      20   0  166928  12220   7988 S   0.7   0.1   0:04.52 /sbin/init                                                                                      (B[m[39;49m[K
+(B[m    465 root      20   0   44196  37724  10204 S   0.7   0.3   0:02.89 python3 /snap/ubuntu-desktop-installer/1286/usr/bin/cloud-init status --wait                    (B[m[39;49m[K
+(B[m      2 root      20   0    2280   1304   1188 S   0.0   0.0   0:00.00 /init                                                                                           (B[m[39;49m[K
+(B[m      6 root      20   0    2308    144    132 S   0.0   0.0   0:00.00 plan9 --control-socket 6 --log-level 4 --server-fd 7 --pipe-fd 9 --log-truncate                 (B[m[39;49m[K
+(B[m     41 root      19  -1   47744  14700  13680 S   0.0   0.1   0:00.08 /lib/systemd/systemd-journald                                                                   (B[m[39;49m[K
+(B[m     61 root      20   0   22100   5996   4536 S   0.0   0.1   0:00.12 /lib/systemd/systemd-udevd                                                                      (B[m[39;49m[K
+(B[m     75 root      20   0    4496    196     48 S   0.0   0.0   0:00.00 snapfuse /var/lib/snapd/snaps/bare_5.snap /snap/bare/5 -o ro,nodev,allow_other,suid             (B[m[39;49m[K
+(B[m     77 root      20   0    4860   1672   1212 S   0.0   0.0   0:00.64 snapfuse /var/lib/snapd/snaps/core22_1122.snap /snap/core22/1122 -o ro,nodev,allow_other,suid   (B[m[39;49m[K
+(B[m     80 root      20   0    4628    168     20 S   0.0   0.0   0:00.00 snapfuse /var/lib/snapd/snaps/gtk-common-themes_1535.snap /snap/gtk-common-themes/1535 -o ro,n+ (B[m[39;49m[K
+(B[m     84 root      20   0    4496    152      0 S   0.0   0.0   0:00.00 snapfuse /var/lib/snapd/snaps/snapd_20290.snap /snap/snapd/20290 -o ro,nodev,allow_other,suid   (B[m[39;49m[K
+(B[m     93 root      20   0    4736   1740   1232 S   0.0   0.0   0:02.08 snapfuse /var/lib/snapd/snaps/snapd_21184.snap /snap/snapd/21184 -o ro,nodev,allow_other,suid   (B[m[39;49m[K
+(B[m     95 root      20   0    4496    184     36 S   0.0   0.0   0:00.00 snapfuse /var/lib/snapd/snaps/ubuntu-desktop-installer_1276.snap /snap/ubuntu-desktop-installe+ (B[m[39;49m[K
+(B[m     97 root      20   0    4932   1676   1212 S   0.0   0.0   0:01.16 snapfuse /var/lib/snapd/snaps/ubuntu-desktop-installer_1286.snap /snap/ubuntu-desktop-installe+ (B[m[39;49m[K
+(B[m    104 systemd+  20   0   25540  12604   8412 S   0.0   0.1   0:00.12 /lib/systemd/systemd-resolved                                                                   (B[m[39;49m[K
+(B[m    123 root      20   0    4308   2696   2464 S   0.0   0.0   0:00.00 /usr/sbin/cron -f -P                                                                            (B[m[39;49m[K
+(B[m    142 message+  20   0    8592   4676   4136 S   0.0   0.0   0:00.06 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-on+ (B[m[39;49m[K
+(B[m    153 root      20   0   30104  18956  10156 S   0.0   0.2   0:00.11 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers                            (B[m[39;49m[K
+(B[m    156 syslog    20   0  222404   7020   4208 S   0.0   0.1   0:00.02 /usr/sbin/rsyslogd -n -iNONE                                                                    (B[m[39;49m[K
+(B[m    159 root      20   0 1984852  48028  18896 S   0.0   0.4   0:01.78 /usr/lib/snapd/snapd                                                                            (B[m[39;49m[K
+(B[m    160 root      20   0   15332   7112   6168 S   0.0   0.1   0:00.09 /lib/systemd/systemd-logind                                                                     (B[m[39;49m[K
+(B[m    222 root      20   0    4784   3376   3140 S   0.0   0.0   0:00.06 /bin/bash /snap/ubuntu-desktop-installer/1286/bin/subiquity-server                              (B[m[39;49m[K
+(B[m    229 root      20   0  107220  21064  12964 S   0.0   0.2   0:00.07 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal   (B[m[39;49m[K
+(B[m    236 root      20   0    3240   1048    960 S   0.0   0.0   0:00.00 /sbin/agetty -o -p -- \u --noclear --keep-baud console 115200,38400,9600 vt220                  (B[m[39;49m[K
+(B[m    239 root      20   0    3196   1148   1064 S   0.0   0.0   0:00.00 /sbin/agetty -o -p -- \u --noclear tty1 linux                                                   (B[m[39;49m[K
+(B[m    341 root      20   0  154648  71592  17712 S   0.0   0.6   0:02.60 /snap/ubuntu-desktop-installer/1286/usr/bin/python3.10 -m subiquity.cmd.server --use-os-prober+ (B[m[39;49m[K
+(B[m    369 root      20   0    2288    116      0 S   0.0   0.0   0:00.00 /init                                                                                           (B[m[39;49m[K
+(B[m    370 root      20   0    2304    120      0 S   0.0   0.0   0:00.00 /init                                                                                           (B[m[39;49m[K
+(B[m    371 frankpa+  20   0    6080   5124   3408 S   0.0   0.0   0:00.01 -bash                                                                                           (B[m[39;49m[K
+(B[m    372 root      20   0    7528   4784   3860 S   0.0   0.0   0:00.00 /bin/login -f                                                                                   (B[m[39;49m[K
+(B[m    430 frankpa+  20   0   16912   9092   7640 S   0.0   0.1   0:00.04 /lib/systemd/systemd --user                                                                     (B[m[39;49m[K
+(B[m    432 frankpa+  20   0  168792   3384     12 S   0.0   0.0   0:00.00 (sd-pam)                                                                                        (B[m[39;49m[K
+(B[m    437 frankpa+  20   0    6124   4936   3368 S   0.0   0.0   0:00.01 -bash                                                                                           (B[m[39;49m[K
+(B[m   1802 root      20   0    4628   1608   1368 S   0.0   0.0   0:00.00 snapfuse /var/lib/snapd/snaps/core22_1380.snap /snap/core22/1380 -o ro,nodev,allow_other,suid   (B[m[39;49m[K
+(B[m[1m   2529 frankpa+  20   0    7792   3692   3096 R   0.0   0.0   0:00.00 top                                                                                             (B[m[39;49m[K
+[J[?25l[H(B[mtop - 14:00:55 up 8 min,  1 user,  load average: 0.01, 0.02, 0.00(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m  34 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m  33 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s): (B[m[39;49m[1m  0.0(B[m[39;49m/0.0  (B[m[39;49m(B[m   0[(B[m[39;49m(B[m[1m(B[m[39;49m(B[m(B[m[39;49m(B[m                                                                                                    ](B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m  11643.2 (B[m[39;49mtotal,(B[m[39;49m[1m  10535.9 (B[m[39;49mfree,(B[m[39;49m[1m    519.8 (B[m[39;49mused,(B[m[39;49m[1m    587.5 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m   3072.0 (B[m[39;49mtotal,(B[m[39;49m[1m   3072.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m  10878.3 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+[7m    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND                                                                                         (B[m[39;49m[K
+(B[m      1 root      20   0  166928  12220   7988 S   0.0   0.1   0:04.52 /sbin/init                                                                                      (B[m[39;49m[K
+(B[m      2 root      20   0    2280   1304   1188 S   0.0   0.0   0:00.00 /init                                                                                           (B[m[39;49m[K
+(B[m      6 root      20   0    2308    144    132 S   0.0   0.0   0:00.00 plan9 --control-socket 6 --log-level 4 --server-fd 7 --pipe-fd 9 --log-truncate                 (B[m[39;49m[K
+(B[m     41 root      19  -1   47744  14700  13680 S   0.0   0.1   0:00.08 /lib/systemd/systemd-journald                                                                   (B[m[39;49m[K
+(B[m     61 root      20   0   22100   5996   4536 S   0.0   0.1   0:00.12 /lib/systemd/systemd-udevd                                                                      (B[m[39;49m[K
+(B[m     75 root      20   0    4496    196     48 S   0.0   0.0   0:00.00 snapfuse /var/lib/snapd/snaps/bare_5.snap /snap/bare/5 -o ro,nodev,allow_other,suid             (B[m[39;49m[K
+(B[m     77 root      20   0    4860   1672   1212 S   0.0   0.0   0:00.64 snapfuse /var/lib/snapd/snaps/core22_1122.snap /snap/core22/1122 -o ro,nodev,allow_other,suid   (B[m[39;49m[K
+(B[m     80 root      20   0    4628    168     20 S   0.0   0.0   0:00.00 snapfuse /var/lib/snapd/snaps/gtk-common-themes_1535.snap /snap/gtk-common-themes/1535 -o ro,n+ (B[m[39;49m[K
+(B[m     84 root      20   0    4496    152      0 S   0.0   0.0   0:00.00 snapfuse /var/lib/snapd/snaps/snapd_20290.snap /snap/snapd/20290 -o ro,nodev,allow_other,suid   (B[m[39;49m[K
+(B[m     93 root      20   0    4736   1740   1232 S   0.0   0.0   0:02.08 snapfuse /var/lib/snapd/snaps/snapd_21184.snap /snap/snapd/21184 -o ro,nodev,allow_other,suid   (B[m[39;49m[K
+(B[m     95 root      20   0    4496    184     36 S   0.0   0.0   0:00.00 snapfuse /var/lib/snapd/snaps/ubuntu-desktop-installer_1276.snap /snap/ubuntu-desktop-installe+ (B[m[39;49m[K
+(B[m     97 root      20   0    4932   1676   1212 S   0.0   0.0   0:01.16 snapfuse /var/lib/snapd/snaps/ubuntu-desktop-installer_1286.snap /snap/ubuntu-desktop-installe+ (B[m[39;49m[K
+(B[m    104 systemd+  20   0   25540  12604   8412 S   0.0   0.1   0:00.12 /lib/systemd/systemd-resolved                                                                   (B[m[39;49m[K
+(B[m    123 root      20   0    4308   2696   2464 S   0.0   0.0   0:00.00 /usr/sbin/cron -f -P                                                                            (B[m[39;49m[K
+(B[m    142 message+  20   0    8592   4676   4136 S   0.0   0.0   0:00.06 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-on+ (B[m[39;49m[K
+(B[m    153 root      20   0   30104  18956  10156 S   0.0   0.2   0:00.11 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers                            (B[m[39;49m[K
+(B[m    156 syslog    20   0  222404   7020   4208 S   0.0   0.1   0:00.02 /usr/sbin/rsyslogd -n -iNONE                                                                    (B[m[39;49m[K
+(B[m    159 root      20   0 1984852  48028  18896 S   0.0   0.4   0:01.78 /usr/lib/snapd/snapd                                                                            (B[m[39;49m[K
+(B[m    160 root      20   0   15332   7112   6168 S   0.0   0.1   0:00.09 /lib/systemd/systemd-logind                                                                     (B[m[39;49m[K
+(B[m    222 root      20   0    4784   3376   3140 S   0.0   0.0   0:00.06 /bin/bash /snap/ubuntu-desktop-installer/1286/bin/subiquity-server                              (B[m[39;49m[K
+(B[m    229 root      20   0  107220  21064  12964 S   0.0   0.2   0:00.07 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal   (B[m[39;49m[K
+(B[m    236 root      20   0    3240   1048    960 S   0.0   0.0   0:00.00 /sbin/agetty -o -p -- \u --noclear --keep-baud console 115200,38400,9600 vt220                  (B[m[39;49m[K
+(B[m    239 root      20   0    3196   1148   1064 S   0.0   0.0   0:00.00 /sbin/agetty -o -p -- \u --noclear tty1 linux                                                   (B[m[39;49m[K
+(B[m    341 root      20   0  154648  71592  17712 S   0.0   0.6   0:02.60 /snap/ubuntu-desktop-installer/1286/usr/bin/python3.10 -m subiquity.cmd.server --use-os-prober+ (B[m[39;49m[K
+(B[m    369 root      20   0    2288    116      0 S   0.0   0.0   0:00.00 /init                                                                                           (B[m[39;49m[K
+(B[m    370 root      20   0    2304    120      0 S   0.0   0.0   0:00.00 /init                                                                                           (B[m[39;49m[K
+(B[m    371 frankpa+  20   0    6080   5124   3408 S   0.0   0.0   0:00.01 -bash                                                                                           (B[m[39;49m[K
+(B[m    372 root      20   0    7528   4784   3860 S   0.0   0.0   0:00.00 /bin/login -f                                                                                   (B[m[39;49m[K
+(B[m    430 frankpa+  20   0   16912   9092   7640 S   0.0   0.1   0:00.04 /lib/systemd/systemd --user                                                                     (B[m[39;49m[K
+(B[m    432 frankpa+  20   0  168792   3384     12 S   0.0   0.0   0:00.00 (sd-pam)                                                                                        (B[m[39;49m[K
+(B[m    437 frankpa+  20   0    6124   4936   3368 S   0.0   0.0   0:00.01 -bash                                                                                           (B[m[39;49m[K
+(B[m    465 root      20   0   44196  37724  10204 S   0.0   0.3   0:02.89 python3 /snap/ubuntu-desktop-installer/1286/usr/bin/cloud-init status --wait                    (B[m[39;49m[K
+(B[m   1802 root      20   0    4628   1608   1368 S   0.0   0.0   0:00.00 snapfuse /var/lib/snapd/snaps/core22_1380.snap /snap/core22/1380 -o ro,nodev,allow_other,suid   (B[m[39;49m[K
+(B[m[1m   2529 frankpa+  20   0    7792   3692   3096 R   0.0   0.0   0:00.00 top                                                                                             (B[m[39;49m[K
+[J[?1l>[45;1H
+[?12l[?25h[K
