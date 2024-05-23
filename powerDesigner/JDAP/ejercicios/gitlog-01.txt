@@ -1,0 +1,113 @@
+commit d1820830caca634e4105d4775f60db8c8cf86f21
+Author: Jose Arias <joseariaspantoj@gmail.com>
+Date:   Sun Apr 14 01:43:03 2024 -0500
+
+    Sistema de facturacion refinado
+
+commit e6a5074e8a789b4d7c79dcb1fa97fee0892ea43d
+Author: Jose Arias <joseariaspantoj@gmail.com>
+Date:   Sat Apr 6 00:45:57 2024 -0500
+
+    Casos de uso sistema de facturacion de productos
+
+commit 92acecc637d64b810ee0c40dd68c7f82a49b8fa8
+Author: Jose Arias <joseariaspantoj@gmail.com>
+Date:   Sat Mar 23 10:43:47 2024 -0500
+
+    Sistema Facturacion productos Jose Arias
+
+commit 8ae59852cc440493d539e2deca911b14d8ed2fcb
+Author: Jose Arias <joseariaspantoj@gmail.com>
+Date:   Sun Mar 17 23:33:32 2024 -0500
+
+    Eliminar archivos
+
+commit 96fb3ffee157a6c3bad0c84a59f180607339a322
+Merge: 8114c14 2bcbf7a
+Author: Jose Arias Pantoja <116037142+josearpa123@users.noreply.github.com>
+Date:   Sun Mar 17 23:18:17 2024 -0500
+
+    Merge pull request #1 from habolanos/master
+    
+    Merge pull request #1 from josearpa123/Jose_Arias
+
+commit 8114c144e87bb5bfe0d5fe07daf2ab972c26da24
+Author: Jose Arias <joseariaspantoj@gmail.com>
+Date:   Sun Mar 17 23:16:17 2024 -0500
+
+    Sistema de vigilancia
+
+commit 2bcbf7a426df3bdbbb17a726e45958fdc7d0d6f6
+Merge: 5be34b6 fae17a9
+Author: Harold Adrián Bolaños Rodríguez <haroldadrian@gmail.com>
+Date:   Sun Mar 17 23:10:47 2024 -0500
+
+    Merge pull request #1 from josearpa123/Jose_Arias
+    
+    Prueba commit
+
+commit 18252075cf6c03fcefecbf2c43dd894c0db3cbd6
+Author: Jose Arias <joseariaspantoj@gmail.com>
+Date:   Sun Mar 17 21:52:22 2024 -0500
+
+    hola
+
+commit 9085ab42bcf211d41895b1d9322f4f3a7d2e0bc9
+Author: Jose Arias <joseariaspantoj@gmail.com>
+Date:   Sun Mar 17 21:30:09 2024 -0500
+
+    primer  commit
+
+commit e423bada9772e416d977f1d77b952500e5254455
+Author: Jose Arias <joseariaspantoj@gmail.com>
+Date:   Tue Mar 12 11:41:49 2024 -0500
+
+    Celular
+
+commit 9a958db96d0e86616e7bc56f9e7bb210dc29e7bc
+Author: Jose <jose.ariaspantoj@gmail.com>
+Date:   Mon Mar 11 15:40:22 2024 -0500
+
+    eliminar archivos
+
+commit c752aa0a96082b96e93b4499c1b8b5a63d2937d5
+Author: Jose <jose.ariaspantoj@gmail.com>
+Date:   Mon Mar 11 15:36:31 2024 -0500
+
+    granja parte 1 Jose Arias
+
+commit fae17a980c93c645b02c3a892dd03b4c83f6e0de
+Author: Jose <jose.ariaspantoj@gmail.com>
+Date:   Sun Mar 10 21:15:17 2024 -0500
+
+    hola
+
+commit 5242e8ae556b97423e5508d3f2511bbb1fa38241
+Author: Jose <jose.ariaspantoj@gmail.com>
+Date:   Sun Mar 10 20:51:27 2024 -0500
+
+    Prueba commit
+
+commit 5be34b65ac03511dea06f19e9caa28d633a19bf3
+Author: Harold Adrian <haroldadrian@gmail.com>
+Date:   Mon Mar 4 20:20:25 2024 -0500
+
+    Se agrego una operacion denominada caminar y retorna un boolean
+
+commit e9a6726af0691f291411ffc316b43dc2308bb0a0
+Author: Harold Adrian <haroldadrian@gmail.com>
+Date:   Mon Mar 4 20:14:12 2024 -0500
+
+    Renombrado de folder
+
+commit d6dedaac297f284dfb4007f056fc6a3167c300d6
+Author: Harold Adrian <haroldadrian@gmail.com>
+Date:   Mon Mar 4 20:09:26 2024 -0500
+
+    Version base de la granja
+
+commit 54afea5367569173d7eb67e5240d8bd0dfb4b506
+Author: Harold Adrián Bolaños Rodríguez <haroldadrian@gmail.com>
+Date:   Mon Feb 19 20:03:46 2024 -0500
+
+    Initial commit
