@@ -1,0 +1,8 @@
+atributos:
+proposito= carga, turistico
+
+comportamientos:
+acelerar
+detener
+sumerfirse
+
