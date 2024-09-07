@@ -1,0 +1,27 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 18:45 ?        00:00:00 /sbin/init
+root           2       1  0 18:45 ?        00:00:00 /init
+root           6       2  0 18:45 ?        00:00:00 plan9 --control-socket 7 --log-level 4 --server-fd 8 --pipe-fd 10 --log-truncate
+root          40       1  0 18:45 ?        00:00:00 /lib/systemd/systemd-journald
+root          66       1  0 18:45 ?        00:00:00 /lib/systemd/systemd-udevd
+systemd+     105       1  0 18:45 ?        00:00:00 /lib/systemd/systemd-resolved
+root         144       1  0 18:45 ?        00:00:00 /usr/sbin/cron -f -P
+message+     145       1  0 18:45 ?        00:00:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         149       1  0 18:45 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+syslog       150       1  0 18:45 ?        00:00:00 /usr/sbin/rsyslogd -n -iNONE
+root         151       1  0 18:45 ?        00:00:00 /lib/systemd/systemd-logind
+root         156       1  0 18:45 ?        00:00:07 /usr/bin/containerd
+root         164       1  0 18:45 hvc0     00:00:00 /sbin/agetty -o -p -- \u --noclear --keep-baud console 115200,38400,9600 vt220
+root         166       1  0 18:45 tty1     00:00:00 /sbin/agetty -o -p -- \u --noclear tty1 linux
+root         184       1  0 18:45 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         195       1  0 18:45 ?        00:00:00 /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
+root         462       2  0 18:45 ?        00:00:00 /init
+root         463     462  0 18:45 ?        00:00:00 /init
+hadrian      464     463  0 18:45 pts/0    00:00:00 -bash
+root         465       2  0 18:45 pts/1    00:00:00 /bin/login -f
+hadrian      492       1  0 18:45 ?        00:00:00 /lib/systemd/systemd --user
+hadrian      493     492  0 18:45 ?        00:00:00 (sd-pam)
+hadrian      532     465  0 18:45 pts/1    00:00:00 -bash
+root        1161       1  0 19:51 ?        00:00:00 /usr/libexec/packagekitd
+root        1165       1  0 19:51 ?        00:00:00 /usr/libexec/polkitd --no-debug
+hadrian     1306     464  0 20:36 pts/0    00:00:00 ps -fea

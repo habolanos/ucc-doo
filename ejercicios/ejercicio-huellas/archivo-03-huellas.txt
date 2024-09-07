@@ -1,0 +1,9 @@
+total 8
+drwxrwxrwx 1 hadrian hadrian 4096 Aug 23 19:51 ./
+drwxrwxrwx 1 hadrian hadrian 4096 Aug 23 19:21 ../
+drwxrwxrwx 1 hadrian hadrian 4096 Aug 23 19:21 .git/
+-rwxrwxrwx 1 hadrian hadrian  290 Aug 23 19:21 .gitignore*
+-rwxrwxrwx 1 hadrian hadrian   52 Aug 23 19:21 README.md*
+-rwxrwxrwx 1 hadrian hadrian 4949 Aug 23 19:50 archivo-01-huellas.txt*
+-rwxrwxrwx 1 hadrian hadrian  112 Aug 23 19:50 archivo-02-huellas.txt*
+-rwxrwxrwx 1 hadrian hadrian    0 Aug 23 19:51 archivo-03-huellas.txt*
